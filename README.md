@@ -18,7 +18,7 @@ or any other source.
 
 Place the configuration block anywhere in your modules list in `config.js`. The module does not render anything to the mirror.
 
-```json
+```
 {
     module: 'MMM-UserPresenceToMQTT',
     config: {
