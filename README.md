@@ -3,8 +3,7 @@
 [MagicMirror](https://github.com/MichMich/MagicMirror) module that publishes the internal `USER_PRESENCE` broadcast notification to an MQTT topic, allowing to use the mirror
 as an occupancy/motion sensor in a home automation setup.
 
-Data for the `USER_PRESENCE` notification can be supplied by a [PIR sensor module](https://github.com/paviro/MMM-PIR-Sensor), a camera-based motion detection module,
-or any other source.
+Data for the `USER_PRESENCE` notification can be supplied by a [PIR sensor module](https://github.com/paviro/MMM-PIR-Sensor), a [camera-based motion detection module](https://github.com/rejas/MMM-MotionDetector), or any other source.
 
 ## Installation
 
