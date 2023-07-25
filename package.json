@@ -9,6 +9,6 @@
   "author": "Olex S.",
   "license": "ISC",
   "dependencies": {
-    "mqtt": "^4.0.0"
+    "mqtt": "^5.0.0"
   }
 }
